@@ -7,5 +7,6 @@ public class TestMemVar {
     public static void main(String args[])
     {
         System.out.println("Member variable value is : "+a);
+
     }
 }
